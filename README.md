@@ -4,7 +4,7 @@
 📫 How to reach me: [sinadalvand.ir](https://sinadalvand.ir/)
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Sanaebadi97)
+![Github stats](https://github-readme-stats.vercel.app/api?username=sinadalvand)
 
 <!--
 **sinadalvand/sinadalvand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
