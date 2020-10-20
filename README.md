@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-💬 Ask me about android , Maybe i can help !
-📫 How to reach me: [sinadalvand.ir](https://sinadalvand.ir/)
+- 💬 Ask me about android , Maybe i can help !
+- 📫 How to reach me: [sinadalvand.ir](https://sinadalvand.ir/)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sinadalvand)
