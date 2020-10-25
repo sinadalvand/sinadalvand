@@ -2,7 +2,14 @@
 
 - 💬 Ask me about android , Maybe i can help !
 - 📫 How to reach me: [sinadalvand.ir](https://sinadalvand.ir/)
-
+- Noob Sag
+- "Hello World"
+- PussyLisser
+- Gamer
+- Try to be mysteriously Weird 
+- Keeper
+- Dancer
+_ hiker
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sinadalvand)
 
