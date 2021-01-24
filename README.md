@@ -3,7 +3,7 @@
 - 💬 Ask me about android , Maybe i can help !
 - 📫 How to reach me: [sinadalvand.ir](https://sinadalvand.ir/)
 
-<a href="www.linkedin.com/in/sinadalvand">
+<a href="https://www.linkedin.com/in/sinadalvand">
   <img align="left" alt="Sina Dalvand's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/DlvLogan">
