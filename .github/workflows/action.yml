@@ -14,9 +14,4 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Tehran
-          plugin_followup: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_languages: yes
-          plugin_stars: yes
-          plugin_stars_limit: 4
+         
