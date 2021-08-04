@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-- 💬 Ask me about android , Maybe i can help !
-- 📫 How to reach me: [sinadalvand.ir](https://sinadalvand.ir/)
+- 🔭 I’m currently working on my own projects
+- 🌱 I’m currently learning Jetbrains Compose (:)
+- 👯 I’m looking to collaborate on Open Sources
+- 🤔 I’m looking for help with Android Performances
+- 💬 Ask me about Android Stuff or engineering in general
+- 📫 How to reach me: [www.sinadalvand.ir](https://sinadalvand.ir/) or [dalvandsina@yahoo.com](mailto:dalvandsina@yahoo.com)
 
 <a href="https://www.linkedin.com/in/sinadalvand">
   <img align="left" alt="Sina Dalvand's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
