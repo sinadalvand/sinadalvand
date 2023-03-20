@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my own projects
-- 🌱 I’m currently learning Jetbrains Compose (:)
+- 🔭 I’m currently working for SLS company
+- 🌱 I'm striving to become more advanced in the Compose
 - 👯 I’m looking to collaborate on Open Sources
 - 🤔 I’m looking for help with Android Performances
 - 💬 Ask me about Android Stuff or engineering in general
