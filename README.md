@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working for SLS company
+- 🔭 I’m currently looking for Android job opportunities
 - 🌱 I'm striving to become more advanced in the Compose
 - 👯 I’m looking to collaborate on Open Sources
 - 🤔 I’m looking for help with Android Performances
